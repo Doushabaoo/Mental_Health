@@ -1,7 +1,7 @@
 # Mental Health Risk Prediction Project
 **Kaggle Competition** (https://www.kaggle.com/competitions/playground-series-s4e11/overview)
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.12.6-blue)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1.5.2-orange)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3.0.2-green)
 
